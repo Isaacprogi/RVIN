@@ -7,7 +7,7 @@ import NewsSection from './components/NewsSection/NewsSection'
 import Footer from './components/Footer/Footer'
 import PlatformBenefits from './components/PlatFormBenefits/PlatformBenefits'
 import Procss from './components/Process/Process'
-import DashboardImage from './assets/Dashboard.png'
+import {dashboardImage} from '../src/data/data'
 
 function App() {
 
@@ -23,7 +23,7 @@ function App() {
       <section className="relative w-full "><div className="w-full max-w-[1297px] mx-auto relative px-3">
         <div className="relative mt-[50px]">
           <div className="w-full max-w-[904px] mx-auto">
-            <img src={DashboardImage} alt="Dashboard Preview" className="rounded-xl shadow-lg" />
+            <img src={dashboardImage} alt="Dashboard Preview" className="rounded-xl shadow-lg" />
           </div>
         </div>
       </div>

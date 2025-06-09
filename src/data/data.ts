@@ -27,7 +27,7 @@ export const successPartners = [
 ];
 
 export const logo = "https://www.rvin.sa/assets/RVIN_LOGO_WHITE-_GfHJFhS.webp"
-export const dashboardImage = "https://www.rvin.sa/assets/Dashboard.png";
+export const dashboardImage = "https://www.rvin.sa/assets/admin-page-Cpi3ETfj.jpeg";
 export const successPartnersImage = "https://www.rvin.sa/assets/Success-Partners-C4HmO4GD.svg";
 
 
